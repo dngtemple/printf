@@ -1,1 +1,1 @@
-THe printf function
+The Printf function
